@@ -1,4 +1,4 @@
-/**
+package GuessGame; /**
  * Created by gorysko on 10/24/17.
  */
 

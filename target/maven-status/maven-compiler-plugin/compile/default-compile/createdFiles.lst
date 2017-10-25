@@ -1,8 +1,8 @@
-HeroesGame$Hobit.class
-HeroesGame$Character.class
-HeroesGame$Knight.class
-HeroesGame$GameManager.class
-HeroesGame.class
-GuessGame.class
-HeroesGame$Elf.class
-HeroesGame$King.class
+heroesGame/Game.class
+heroesGame/King.class
+heroesGame/Elf.class
+heroesGame/GameManager.class
+heroesGame/Knight.class
+GuessGame/GuessGame.class
+heroesGame/Character.class
+heroesGame/Hobit.class
