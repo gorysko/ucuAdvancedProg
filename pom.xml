@@ -17,7 +17,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>HeroesGame</mainClass>
+                        <mainClass>heroesGame.Game</mainClass>
                     </manifest>
                 </archive>
             </configuration>

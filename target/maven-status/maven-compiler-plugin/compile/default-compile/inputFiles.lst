@@ -1,2 +1,8 @@
-/Users/gorysko/repo/ucu/firstModule/src/main/java/HeroesGame.java
-/Users/gorysko/repo/ucu/firstModule/src/main/java/GuessGame.java
+/Users/gorysko/repo/ucu/firstModule/src/main/java/GuessGame/GuessGame.java
+/Users/gorysko/repo/ucu/firstModule/src/main/java/heroesGame/GameManager.java
+/Users/gorysko/repo/ucu/firstModule/src/main/java/heroesGame/Character.java
+/Users/gorysko/repo/ucu/firstModule/src/main/java/heroesGame/King.java
+/Users/gorysko/repo/ucu/firstModule/src/main/java/heroesGame/Hobit.java
+/Users/gorysko/repo/ucu/firstModule/src/main/java/heroesGame/Game.java
+/Users/gorysko/repo/ucu/firstModule/src/main/java/heroesGame/Elf.java
+/Users/gorysko/repo/ucu/firstModule/src/main/java/heroesGame/Knight.java
